@@ -1,3 +1,6 @@
 ./vgg16_weights.h5
 ./cat_breed_classification_model.h5
 ./cat_breed_model.h5
+cat_classification/data
+data
+.ipynb_checkpoints/*
